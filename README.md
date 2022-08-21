@@ -3,7 +3,7 @@
 
 <div align="center">
   <h4>안녕하세요! 👋</h4>
-  풀스택 개발자를 꿈꾸는 이동희입니다.
+  성장하는 개발자를 꿈꾸는 김민성입니다.
 
   <h3>Tech Stack</h3>
   <div class="stack">
@@ -18,7 +18,7 @@
 	</div>
  <br />
 
-  ![kms1234567's GitHub stats](https://github-readme-stats.vercel.app/api?username==kms1234567&show_icons=true&theme=highcontrast)
+  ![kms1234567's GitHub stats](https://github-readme-stats.vercel.app/api?username=kms1234567&show_icons=true&theme=highcontrast)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kms1234567&layout=compact&theme=great-gatsby&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 
